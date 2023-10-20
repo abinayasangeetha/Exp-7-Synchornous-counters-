@@ -84,7 +84,7 @@ This type of counter is normally referred to as a Down Counter, (CTD). In a bina
 
 
 ### PROGRAM 
-## UP COUNTER 
+##### UP COUNTER 
 ```
 module exp6(A,clk);
 output reg [3:0]A;
@@ -98,7 +98,7 @@ A[3]=1^A[3];
 end
 endmodule
 ```
-## DOWN COUNTER 
+##### DOWN COUNTER 
 ```
 module exp6(A,clk);
 output reg [3:0]A;
@@ -120,11 +120,11 @@ endmodule
 
 ### RTL LOGIC UP COUNTER AND DOWN COUNTER  
 
-## UP COUNTER 
+##### UP COUNTER 
 ![upcntr](https://github.com/abinayasangeetha/Exp-7-Synchornous-counters-/assets/119393675/920a77e6-9cf3-4da8-8f9d-7857ec4205fb)
 
 
-## DOWN COUNTER 
+##### DOWN COUNTER 
 ![downcntr1](https://github.com/abinayasangeetha/Exp-7-Synchornous-counters-/assets/119393675/d5cb2ac7-7b96-47cf-b8c7-c1d64d88c153)
 
 
@@ -134,21 +134,21 @@ endmodule
 ### TIMING DIGRAMS FOR COUNTER  
 
 
-## UP COUNTER 
+##### UP COUNTER 
 ![upcntrwf](https://github.com/abinayasangeetha/Exp-7-Synchornous-counters-/assets/119393675/ab6743f5-8d9b-4d13-9041-8e3644b220f0)
 
 
-## DOWN COUNTER 
+##### DOWN COUNTER 
 ![downcntr2](https://github.com/abinayasangeetha/Exp-7-Synchornous-counters-/assets/119393675/5f7b73e4-9884-464a-9b3c-49d4291ff98b)
 
 
 ### TRUTH TABLE 
 
-## UP COUNTER 
+##### UP COUNTER 
 
 
 
-## DOWN COUNTER 
+##### DOWN COUNTER 
 
 ### RESULTS 
 To implement 4 bit up and down counters and validate  functionality is executed successfully.
