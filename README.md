@@ -4,15 +4,15 @@ REG NO : 212222230002
 ```
 
 # Exp 6 Synchornous counters  up counter and down counter 
-### AIM: 
+## AIM: 
 To implement 4 bit up and down counters and validate  functionality.
-### HARDWARE REQUIRED: 
+## HARDWARE REQUIRED: 
 – PC, Cyclone II , USB flasher
-### SOFTWARE REQUIRED:  
+## SOFTWARE REQUIRED:  
 Quartus prime
-### THEORY 
+## THEORY 
 
-## UP COUNTER 
+##### UP COUNTER 
 The counter is a digital sequential circuit and here it is a 4 bit counter, which simply means it can count from 0 to 15 and vice versa based upon the direction of counting (up/down). 
 
 The counter (“count“) value will be evaluated at every positive (rising) edge of the clock (“clk“) cycle.
@@ -44,7 +44,7 @@ Four-bit “Up” Counter
 
 
 
-## DOWN COUNTER 
+##### DOWN COUNTER 
 
 As well as counting “up” from zero and increasing or incrementing to some preset value, it is sometimes necessary to count “down” from a predetermined value to zero allowing us to produce an output that activates when the zero count or some other pre-set value is reached.
 
@@ -53,7 +53,7 @@ This type of counter is normally referred to as a Down Counter, (CTD). In a bina
 
 
 4-bit Count Down Counter
-### Procedure
+## Procedure
 1. Create a New Project:
    - Open Quartus and create a new project by selecting "File" > "New Project Wizard."
    - Follow the wizard's instructions to set up your project, including specifying the project name, location, and target device (FPGA).
@@ -83,7 +83,7 @@ This type of counter is normally referred to as a Down Counter, (CTD). In a bina
 
 
 
-### PROGRAM 
+## PROGRAM 
 ##### UP COUNTER 
 ```
 module exp6(A,clk);
@@ -118,7 +118,7 @@ endmodule
 
 
 
-### RTL LOGIC UP COUNTER AND DOWN COUNTER  
+## RTL LOGIC UP COUNTER AND DOWN COUNTER  
 
 ##### UP COUNTER 
 ![upcntr](https://github.com/abinayasangeetha/Exp-7-Synchornous-counters-/assets/119393675/920a77e6-9cf3-4da8-8f9d-7857ec4205fb)
@@ -131,7 +131,7 @@ endmodule
 
 
 
-### TIMING DIGRAMS FOR COUNTER  
+## TIMING DIGRAMS FOR COUNTER  
 
 
 ##### UP COUNTER 
@@ -142,7 +142,7 @@ endmodule
 ![downcntr2](https://github.com/abinayasangeetha/Exp-7-Synchornous-counters-/assets/119393675/5f7b73e4-9884-464a-9b3c-49d4291ff98b)
 
 
-### TRUTH TABLE 
+## TRUTH TABLE 
 
 ##### UP COUNTER 
 
@@ -150,5 +150,5 @@ endmodule
 
 ##### DOWN COUNTER 
 
-### RESULTS 
+## RESULTS 
 To implement 4 bit up and down counters and validate  functionality is executed successfully.
