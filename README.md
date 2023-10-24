@@ -145,7 +145,7 @@ endmodule
 ## TRUTH TABLE 
 
 ##### UP COUNTER 
-![image](https://github.com/abinayasangeetha/Exp-7-Synchornous-counters-/assets/119393675/4fbd6614-1dd6-461e-8a66-2b94c42a2b01)
+![image](https://github.com/abinayasangeetha/Exp-7-Synchornous-counters-/assets/119393675/42d21ff2-b11c-48f6-99cc-7ca2f90533da)
 
 
 
