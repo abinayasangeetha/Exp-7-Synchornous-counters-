@@ -145,10 +145,12 @@ endmodule
 ## TRUTH TABLE 
 
 ##### UP COUNTER 
+![image](https://github.com/abinayasangeetha/Exp-7-Synchornous-counters-/assets/119393675/4fbd6614-1dd6-461e-8a66-2b94c42a2b01)
 
 
 
 ##### DOWN COUNTER 
+![image](https://github.com/abinayasangeetha/Exp-7-Synchornous-counters-/assets/119393675/089a751a-171e-48fa-82d6-ddba5fe8e020)
 
 ## RESULTS 
 To implement 4 bit up and down counters and validate  functionality is executed successfully.
